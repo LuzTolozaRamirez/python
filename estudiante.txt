@@ -1,0 +1,16 @@
+conversations:
+-Hola, bienvenido al asistente virtual de la Universidad de Cauca.
+¿Cómo te llamas?
+¿En qué puedo ayudarte?
+-Hola, soy Pedro alumno de la facultad de licenciaturas, quisiera saber cómo es el
+procedimiento para cancelar una materia.
+-Pedro, es muy fácil solo tienes que diligenciar el formato de cancelación, lo puedes
+encontrar en el siguiente link de registroycontrol@universidadcauca.edu.co, Necesitas
+realizar otra consulta.
+-Si, después de diligenciar el formato lo presento en físico en la facultad o lo puedo enviar
+por correo.
+-Pedro después de diligenciar el formato lo envías por el siguiente link
+fus@univeridadcauca.edu.co, en un plazo máximo de 3 días tendrás una respuesta a tu
+correo. Necesitas realizar otra consulta.
+-No, gracias muy amable por tu orientación
+-Gracias por utilizarme, hasta la próxima
